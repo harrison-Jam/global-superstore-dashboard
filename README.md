@@ -37,7 +37,25 @@ It provides insights into customer behavior, product performance, and sales tren
 - Technology products generate the most revenue
 - High discounts do not significantly improve sales
 
+
 ## 📂 Dataset
+The dataset used in this project is the **Global Superstore dataset**.
+
+📁 File location: global_superstore_dataset.xlsx
+# Dataset Information
+
+**Name:** Global Superstore Dataset  
+
+**Description:**  
+This dataset contains sales transactions from a global retail store, including:
+- Order details
+- Customer information
+- Product categories
+- Sales, profit, and discount data
+- Shipping details
+
+**Usage:**  
+Used for building Excel dashboards analyzing customer behavior, product performance, and sales trends.
 
 
 ## 👤 Author
