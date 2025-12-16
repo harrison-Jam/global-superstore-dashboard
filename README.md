@@ -38,7 +38,7 @@ It provides insights into customer behavior, product performance, and sales tren
 - High discounts do not significantly improve sales
 
 ## 📂 Dataset
-Global Superstore dataset
+
 
 ## 👤 Author
 Aremu James
